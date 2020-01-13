@@ -1,0 +1,9 @@
+<?xml version = '1.0'?>
+<methodCall>
+ <methodName>wp.getProfile</methodName>
+ <params>
+  <param><value><int>0</int></value></param>
+  <param><value><string>username</string></value></param>
+  <param><value><string>password</string></value></param>
+ </params>
+</methodCall>
